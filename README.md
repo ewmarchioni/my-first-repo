@@ -1,3 +1,4 @@
+# My PartyRock app ideas
 # my-first-repo
 
 A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
